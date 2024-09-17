@@ -1,1 +1,13 @@
-"# bittensor-tooling" 
+# Bittensor Tooling
+
+Various scripts used for analyitical analysis and automation of tasks on the Bittensor network https://bittensor.com/
+
+- Deregistration monitor for specific subnet miners
+- Cloud instance provider balance monitors
+- DataCrunch cloud instance automation
+- Subnet registration automation
+- Subnet registration monitors with Discord alerts
+
+Note: some of these may need to be updated as Bittensor's python package has updated numerous times.
+
+made by Taeyoung Lee and Tipton Browne
