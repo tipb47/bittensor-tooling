@@ -129,7 +129,7 @@ def register_wallet(wallet_config, registration_threshold_price, wallet_name, su
 
 # Main function
 if __name__ == "__main__":
-    webhook_url = "https://discord.com/api/webhooks/1197404476076728370/Ht13N7sFDQsVxMgb-xUI2eMWbyzqYVKUuReeSd47qibnfwwtHQ1v_JCwIt4Nmk8nJevm"
+    webhook_url = "https://discord.com/api/webhooks/webhook"
 
     wallets = input(reset_colour + italic + "Input Wallets (NO DUPES) || wallet1, wallet2, wallet3...\n>>> ").replace(" ","").split(',')
     registration_threshold = input("Config || Registration_Threshold\n>>> ").replace(" ","")
