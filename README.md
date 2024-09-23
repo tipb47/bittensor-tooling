@@ -8,6 +8,6 @@ Various scripts used for analyitical analysis and automation of tasks on the Bit
 - Subnet registration automation
 - Subnet registration monitors with Discord alerts
 
-Note: some of these may need to be updated as Bittensor's python package has updated numerous times.
+Note: some of these may need to be updated given package updates.
 
 made by Taeyoung Lee and Tipton Browne
